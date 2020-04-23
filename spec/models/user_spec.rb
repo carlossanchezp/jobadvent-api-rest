@@ -11,7 +11,7 @@ RSpec.describe User, type: :model do
     end
   
     it 'should not be validate email' do    
-      expect(User.new(email: 'test@test.org', password_digest:'test')).not_to be_valid
+      expect(User.new(email: 'test', password_digest:'test')).not_to be_valid
     end
   end
 end
