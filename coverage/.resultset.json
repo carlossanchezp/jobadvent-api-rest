@@ -34,6 +34,63 @@
           null
         ]
       },
+      "/Users/carlossanchezperez/Projects/jobadvent-api-rest/spec/controllers/concerns/authenticable_spec.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          1,
+          2,
+          2,
+          null,
+          null,
+          1,
+          1,
+          null,
+          1,
+          1,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          2,
+          2,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/carlossanchezperez/Projects/jobadvent-api-rest/app/controllers/concerns/authenticable.rb": {
+        "lines": [
+          1,
+          1,
+          9,
+          null,
+          8,
+          8,
+          null,
+          1,
+          null,
+          1,
+          null,
+          null
+        ]
+      },
       "/Users/carlossanchezperez/Projects/jobadvent-api-rest/spec/models/user_spec.rb": {
         "lines": [
           1,
@@ -96,15 +153,6 @@
           1,
           null,
           null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
           null
         ]
       },
@@ -165,7 +213,7 @@
           null,
           null,
           1,
-          11,
+          13,
           null,
           null,
           1,
@@ -173,18 +221,36 @@
           null,
           null,
           1,
-          11,
+          13,
           null,
           null,
           1,
-          11,
+          13,
           null,
+          null,
+          null
+        ]
+      },
+      "/Users/carlossanchezperez/Projects/jobadvent-api-rest/lib/json_web_token.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          1,
+          2,
+          2,
+          null,
+          null,
+          1,
+          1,
+          1,
           null,
           null
         ]
       },
       "/Users/carlossanchezperez/Projects/jobadvent-api-rest/app/controllers/application_controller.rb": {
         "lines": [
+          1,
           1,
           null
         ]
@@ -208,23 +274,6 @@
           1,
           4,
           null,
-          null,
-          null
-        ]
-      },
-      "/Users/carlossanchezperez/Projects/jobadvent-api-rest/lib/json_web_token.rb": {
-        "lines": [
-          1,
-          1,
-          null,
-          1,
-          1,
-          1,
-          null,
-          null,
-          1,
-          0,
-          0,
           null,
           null
         ]
@@ -283,6 +332,6 @@
         ]
       }
     },
-    "timestamp": 1587671740
+    "timestamp": 1587673288
   }
 }
