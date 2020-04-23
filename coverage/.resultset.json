@@ -73,6 +73,41 @@
           null
         ]
       },
+      "/Users/carlossanchezperez/Projects/jobadvent-api-rest/spec/requests/api/v1/tokens_request_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          null,
+          2,
+          2,
+          2,
+          2,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
       "/Users/carlossanchezperez/Projects/jobadvent-api-rest/spec/requests/api/v1/users_request_spec.rb": {
         "lines": [
           1,
@@ -130,7 +165,7 @@
           null,
           null,
           1,
-          9,
+          11,
           null,
           null,
           1,
@@ -138,11 +173,11 @@
           null,
           null,
           1,
-          9,
+          11,
           null,
           null,
           1,
-          9,
+          11,
           null,
           null,
           null
@@ -151,6 +186,46 @@
       "/Users/carlossanchezperez/Projects/jobadvent-api-rest/app/controllers/application_controller.rb": {
         "lines": [
           1,
+          null
+        ]
+      },
+      "/Users/carlossanchezperez/Projects/jobadvent-api-rest/app/controllers/api/v1/tokens_controller.rb": {
+        "lines": [
+          1,
+          1,
+          2,
+          2,
+          1,
+          null,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null,
+          1,
+          null,
+          1,
+          4,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/carlossanchezperez/Projects/jobadvent-api-rest/lib/json_web_token.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          0,
+          0,
+          null,
           null
         ]
       },
@@ -208,6 +283,6 @@
         ]
       }
     },
-    "timestamp": 1587669095
+    "timestamp": 1587671740
   }
 }
