@@ -63,10 +63,6 @@ end
 #   # config.filter_gems_from_backtrace("gem name")
 # end
 
-# def api_access
-#   page.driver.header 'API_TOKEN', Rails.configuration.settings['api_token']
-# end
-
 def must_validate_uniqueness_of(klass, attr)
   resource = create klass.to_sym
   duplicated = build klass.to_sym
