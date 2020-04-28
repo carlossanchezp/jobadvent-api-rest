@@ -63,6 +63,7 @@ GEM
       zeitwerk (~> 2.2)
     addressable (2.7.0)
       public_suffix (>= 2.0.2, < 5.0)
+    bcrypt (3.1.13)
     bootsnap (1.4.6)
       msgpack (~> 1.0)
     builder (3.2.4)
@@ -100,6 +101,7 @@ GEM
     i18n (1.8.2)
       concurrent-ruby (~> 1.0)
     jsonapi-renderer (0.2.2)
+    jwt (2.2.1)
     listen (3.2.1)
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
@@ -233,12 +235,14 @@ PLATFORMS
 
 DEPENDENCIES
   active_model_serializers
+  bcrypt (~> 3.1)
   bootsnap (>= 1.4.2)
   byebug
   capybara
   database_cleaner-active_record
   factory_bot_rails
   faker
+  jwt (~> 2.2)
   listen
   pg (>= 0.18, < 2.0)
   puma (~> 4.1)

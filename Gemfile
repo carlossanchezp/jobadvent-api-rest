@@ -38,6 +38,10 @@ gem 'sidekiq'
 gem 'redis-rails'
 gem 'redis-namespace'
 
+# Security
+gem "bcrypt", "~> 3.1"
+gem "jwt", "~> 2.2"
+
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]
